@@ -19,7 +19,6 @@ Note that &quot;cdc&quot; is also a longest uncommon subsequence.
 <strong>Output:</strong> 3
 <strong>Explanation:</strong>&nbsp;The longest uncommon subsequences are &quot;aaa&quot; and &quot;bbb&quot;.
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
@@ -27,7 +26,6 @@ Note that &quot;cdc&quot; is also a longest uncommon subsequence.
 <strong>Output:</strong> -1
 <strong>Explanation:</strong>&nbsp;Every subsequence of string a is also a subsequence of string b. Similarly, every subsequence of string b is also a subsequence of string a. So the answer would be <code>-1</code>.
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
