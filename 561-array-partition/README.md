@@ -1,6 +1,7 @@
 <h2><a href="https://leetcode.com/problems/array-partition">Array Partition</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code> of <code>2n</code> integers, group these integers into <code>n</code> pairs <code>(a<sub>1</sub>, b<sub>1</sub>), (a<sub>2</sub>, b<sub>2</sub>), ..., (a<sub>n</sub>, b<sub>n</sub>)</code> such that the sum of <code>min(a<sub>i</sub>, b<sub>i</sub>)</code> for all <code>i</code> is <strong>maximized</strong>. Return<em> the maximized sum</em>.</p>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
+
 <pre>
 <strong>Input:</strong> nums = [1,4,3,2]
 <strong>Output:</strong> 4
@@ -10,6 +11,7 @@
 3. (1, 2), (3, 4) -&gt; min(1, 2) + min(3, 4) = 1 + 3 = 4
 So the maximum possible sum is 4.</pre>
 <p><strong class="example">Example 2:</strong></p>
+
 <pre>
 <strong>Input:</strong> nums = [6,2,6,5,1,2]
 <strong>Output:</strong> 9
