@@ -9,8 +9,8 @@
 <strong>Output:</strong> "-10"
 </pre>
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
+<p><strong>Constraints:</strong></p
 <ul>
 	<li><code>-10<sup>7</sup> &lt;= num &lt;= 10<sup>7</sup></code></li>
 </ul>
