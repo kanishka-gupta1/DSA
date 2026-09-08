@@ -41,11 +41,8 @@
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">n = 124</span></p>
-
 <p><strong>Output:</strong> <span class="example-io">8</span></p>
-
 <p><strong>Explanation:</strong></p>
-
 <ul>
 	<li>The digits of <code>n</code> are <code>[1, 2, 4]</code>.</li>
 	<li>The possible products of any two digits are: <code>1 * 2 = 2</code>, <code>1 * 4 = 4</code>, <code>2 * 4 = 8</code>.</li>
