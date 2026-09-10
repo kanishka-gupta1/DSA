@@ -15,7 +15,6 @@
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums = [1,3,5,6], target = 7
 <strong>Output:</strong> 4
