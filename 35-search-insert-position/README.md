@@ -8,12 +8,10 @@
 <strong>Output:</strong> 2
 </pre>
 <p><strong class="example">Example 2:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums = [1,3,5,6], target = 2
 <strong>Output:</strong> 1
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 <pre>
 <strong>Input:</strong> nums = [1,3,5,6], target = 7
