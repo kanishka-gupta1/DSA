@@ -14,7 +14,6 @@
 <strong>Output:</strong> [-1,-1]
 <strong>Explanation:</strong> There are no critical points in [3,1].
 </pre>
-
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a2.png" style="width: 624px; height: 46px;" />
 <pre>
@@ -27,7 +26,6 @@
 The minimum distance is between the fifth and the sixth node. minDistance = 6 - 5 = 1.
 The maximum distance is between the third and the sixth node. maxDistance = 6 - 3 = 3.
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/10/14/a5.png" style="width: 624px; height: 39px;" />
 <pre>
