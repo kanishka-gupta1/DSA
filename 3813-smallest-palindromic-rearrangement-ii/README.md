@@ -9,7 +9,6 @@
 <p><strong>Input:</strong> <span class="example-io">s = &quot;abba&quot;, k = 2</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">&quot;baab&quot;</span></p>
-
 <p><strong>Explanation:</strong></p>
 
 <ul>
