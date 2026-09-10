@@ -1,9 +1,7 @@
 <h2><a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-ii">Smallest Palindromic Rearrangement II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p data-end="332" data-start="99">You are given a <strong><span data-keyword="palindrome-string">palindromic</span></strong> string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>Return the <strong>k-th</strong> <strong><span data-keyword="lexicographically-smaller-string">lexicographically smallest</span></strong> palindromic <span data-keyword="permutation-string">permutation</span> of <code>s</code>. If there are fewer than <code>k</code> distinct palindromic permutations, return an empty string.</p>
-
 <p><strong>Note:</strong> Different rearrangements that yield the same palindromic string are considered identical and are counted once.</p>
-
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
