@@ -17,6 +17,5 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li>The input is generated such that a majority element will exist in the array.</li>
 </ul>
-
 <p>&nbsp;</p>
 <strong>Follow-up:</strong> Could you solve the problem in linear time and in <code>O(1)</code> space?
