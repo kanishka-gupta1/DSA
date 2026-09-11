@@ -5,8 +5,7 @@ F(0) = 0, F(1) = 1
 F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 </pre>
 
-<p>Given <code>n</code>, calculate <code>F(n)</code>.</p>
-
+<p>Given <code>n</code>, calculate <code>F(n)</code>.</p
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
