@@ -8,7 +8,6 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 <p>Given <code>n</code>, calculate <code>F(n)</code>.</p
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input:</strong> n = 2
 <strong>Output:</strong> 1
