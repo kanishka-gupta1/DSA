@@ -4,7 +4,6 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input:</strong> n = 27
 <strong>Output:</strong> true
