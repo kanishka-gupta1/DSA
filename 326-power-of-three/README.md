@@ -10,9 +10,7 @@
 <strong>Output:</strong> true
 <strong>Explanation:</strong> 27 = 3<sup>3</sup>
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
+<p><strong class="example">Example 2:</strong></p
 <pre>
 <strong>Input:</strong> n = 0
 <strong>Output:</strong> false
